@@ -12,7 +12,7 @@ PyTorch implementation of [MixGAN-TTS: End-to-End Speech Synthesis Based on Diff
 - [x] Active Shallow Diffusion Mechanism: MixGAN-TTS (two-stage)
 
 ## Audio Samples
-Audio samples are available at [/demo](https://github.com/qw1260497397/MixGAN-TTS/tree/main/demo).
+Audio samples are available at [/demo](https://github.com/Dyongh613/MixGAN-TTS/tree/main/demo).
 
 # Quickstart
 
